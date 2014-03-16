@@ -1,0 +1,11 @@
+{
+	"frames": {
+		"width": 90,
+		"height": 107,
+		"regX": 45,
+		"regY": 73
+	},
+	"animations": {
+		"show": [0, 18, "", 4]
+	}
+}

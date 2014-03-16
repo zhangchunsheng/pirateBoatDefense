@@ -1,0 +1,11 @@
+{
+	"frames": {
+		"width": 40,
+		"height": 40,
+		"regX": 20,
+		"regY": 20
+	},
+	"animations": {
+		"run": [0, 2, "run", 5]
+	}
+}
